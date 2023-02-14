@@ -8,7 +8,7 @@ import java.io.Serializable;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name = "Links", schema = "apidev")
+@Table(name = "Links", schema = "devno")
 @Entity
 public class Links implements Serializable {
 
